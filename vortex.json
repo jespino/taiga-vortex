@@ -1,0 +1,18 @@
+{
+    "virtualbox": {
+        "username": "ubuntu",
+        "password": "ubuntu",
+        "vmId": "trusty32",
+        "vmUrl": "http://cloud-images.ubuntu.com/trusty/current/trusty-server-cloudimg-amd64.ovf"
+    },
+    "nodes": {
+        "taiga": {
+            "virtualbox": {
+                "username": "ubuntu",
+                "password": "ubuntu",
+                "vmId": "trusty32",
+                "vmUrl": "http://cloud-images.ubuntu.com/trusty/current/trusty-server-cloudimg-amd64.ovf"
+            }
+        }
+    }
+}
