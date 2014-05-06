@@ -1,14 +1,14 @@
 {
     "virtualbox": {
-        "username": "ubuntu",
-        "password": "ubuntu",
+        "username": "vagrant",
+        "password": "vagrant",
         "vmId": "trusty32"
     },
     "nodes": {
         "taiga": {
             "virtualbox": {
-                "username": "ubuntu",
-                "password": "ubuntu",
+                "username": "vagrant",
+                "password": "vagrant",
                 "vmId": "trusty32"
             }
         }
